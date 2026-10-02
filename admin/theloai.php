@@ -3,7 +3,9 @@
 <head><meta charset="utf-8"><title>Danh sách thể loại</title></head>
 <body>
 <?php include_once('../connect.php'); ?>
+
 <h2>Danh sách thể loại</h2>
+
 <table border="1" cellpadding="5" width="700">
 <tr>
   <th>Tên thể loại</th>
